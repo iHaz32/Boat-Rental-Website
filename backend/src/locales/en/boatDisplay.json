@@ -1,0 +1,71 @@
+{
+  "yes": "Yes",
+  "no": "No",
+  "technicalFeatures": {
+    "name": "Technical Features",
+    "feature": "Features",
+    "detail": "Detail",
+    "length": ["Total Length", "m"],
+    "width": ["Total Width", "m"],
+    "weight": ["Weight", "kg"],
+    "weightCapacity": ["Weight Capacity", "kg"],
+    "peopleCapacity": ["People Capacity", ""],
+    "engine": ["Engine Type", ""],
+    "power": ["Power", "hp"]
+  },
+  "equipment": {
+    "name": "Equipment",
+    "equipment": "Equipment",
+    "available": "Available",
+    "awning": "Awning for sun protection",
+    "storage": "Storage space under the seats",
+    "nonSlipFloor": "Non-Slip Floor",
+    "seatCushions": "Seat Cushions",
+    "inoxLadder": "Inox Ladder",
+    "portableFridge": "Portable fridge with ice packs",
+    "audioSystemAndRadio": "Audio System, Radio and Bluetooth",
+    "mobileCharger": "Mobile Charger",
+    "lifeJackets": "Life Jackets for adults and children",
+    "pharmacy": "Pharmacy",
+    "spareFuel": "Spare Fuel",
+    "gps": "GPS tracking system"
+  },
+  "prices": {
+    "name": "Prices",
+    "priceType": "Price Type",
+    "amount": "Amount",
+    "priceBeforeSummer": ["Start of the season until 14th of June", "$"],
+    "priceDuringSummer": ["15th of June until 15th of September", "$"],
+    "priceAfterSummer": ["16th of September until the end of the season", "$"]
+  },
+  "boatGallery": {
+    "name": "Boat Gallery"
+  },
+  "boatsAndLicense": {
+    "name": "Boats and License",
+    "tipName": "Tip",
+    "tipUnder30": "Boats up to 30HP do not require a license.",
+    "tipOver30": "Boats more than 30HP require a license or can be driven by a skipper with extra amount of money."
+  },
+  "callUs": {
+    "name": "Call Us",
+    "infoName": "For more information",
+    "infoDescription": "If you have any questions or do not want to book online, please call us at + 01 234 567 88"
+  },
+  "onlineBooking": {
+    "name": "Online Booking",
+    "headerName": "Rent This Luxury Boat",
+    "headerDescription": "Experience the sea like never before",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "preferredCallTime": "Preferred Called Time",
+    "selectPreferredCallTime": "Select your preferred time (GMT+3)",
+    "timeMorning": "Morning (9 AM - 12 PM)",
+    "timeAfternoon": "Afternoon (12 PM - 3 PM)",
+    "timeEvening": "Evening (3 PM - 6 PM)",
+    "timeNight": "Night (6 PM - 9 PM)",
+    "chooseYourDate": "Choose Your Date",
+    "submitButton": "Book your adventure"
+  }
+}

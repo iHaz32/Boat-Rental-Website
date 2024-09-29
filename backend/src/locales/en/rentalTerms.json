@@ -1,0 +1,50 @@
+{
+  "header": {
+    "title": "Rental Terms and Conditions",
+    "subtitle": "These terms and conditions outline the rules and regulations for renting our boats. Please read them carefully to ensure a smooth and enjoyable experience. By booking with us, you agree to comply with all the outlined terms."
+  },
+  "section1": {
+    "title": "1. Booking and Payment",
+    "content": "A reservation must be made in advance to secure your rental. Full payment is required in-person on the same day you arrive at the rental location. We accept various payment methods, including credit card, bank transfer, or cash. Please ensure that you have all necessary payment details and identification upon arrival. A booking confirmation will be sent to your email after you make the reservation. Bookings are subject to availability, and we recommend booking well in advance during peak seasons to guarantee your preferred date."
+  },
+  "section2": {
+    "title": "2. Cancellations and Refunds",
+    "content": "Cancellations are free of charge. Since payment is collected on the day of rental, no cancellation fees apply. If you need to cancel, please notify us as soon as possible to allow us to offer the slot to other customers. We understand that unforeseen circumstances may arise and will do our best to accommodate rescheduling requests based on availability."
+  },
+  "section3": {
+    "title": "3. Liability and Insurance",
+    "content": "The renter assumes full responsibility for the boat and the safety of all passengers during the rental period. It is mandatory for the renter to have adequate insurance coverage that includes liability, damage, and personal injury. Our company offers additional insurance packages for purchase, which provide enhanced protection. In the event of an accident or damage to the boat, the renter will be held liable for all repair costs unless covered by the purchased insurance. Ensure that you thoroughly review all insurance documents."
+  },
+  "section4": {
+    "title": "4. Rental Period",
+    "content": "The standard rental period begins at 9 AM and concludes at 6 PM. Boats must be returned to the dock by 6 PM to avoid late fees. If you anticipate needing more time on the water, please arrange an extension at the time of booking, subject to availability. Late returns will incur a fee of $100 per hour. We ask all renters to respect the time so that the boats can be prepared for the next rental. Failure to return on time may also affect future rental privileges."
+  },
+  "section5": {
+    "title": "5. Safety Regulations",
+    "content": "All passengers on board are required to follow the safety instructions provided by our staff before departure. Life jackets are provided and must be worn at all times while the boat is in motion. Children under 12 years old are required by law to wear life jackets, without exception. We also advise against operating the boat under the influence of alcohol or drugs, as this is not only illegal but also extremely dangerous. Safety is our top priority, and we reserve the right to terminate a rental without refund if safety protocols are not adhered to."
+  },
+  "section6": {
+    "title": "6. Boat Usage",
+    "content": "The boat is to be used only within the designated areas specified in the rental agreement. Venturing into unauthorized or restricted zones is strictly prohibited and may result in fines or penalties. The boat should be operated in a responsible manner, avoiding reckless driving or behaviors that could endanger passengers, other vessels, or wildlife. The renter must adhere to all local boating laws and regulations. Any misuse of the boat that results in damage or legal action will be the sole responsibility of the renter."
+  },
+  "section7": {
+    "title": "7. Fuel Policy",
+    "content": "Your rental includes a full tank of fuel. At the end of the rental, you will be charged for the amount of fuel used during your time on the water. Fuel consumption will be measured, and the cost will be added to your final payment. There is no need to refuel the boat before returning it. Please ensure to use the fuel efficiently to avoid higher charges."
+  },
+  "section8": {
+    "title": "8. Weather Policy",
+    "content": "Weather conditions are closely monitored, and we reserve the right to cancel or reschedule rentals in the event of severe weather. Safety is our primary concern, and we will not allow boats to depart if conditions are deemed unsafe. In the case of cancellation due to weather, renters will have the option to reschedule or receive a full refund. We recommend checking the weather forecast before your rental and being prepared for sudden changes. In mild weather conditions, the rental will proceed as planned, but we advise all renters to use caution."
+  },
+  "section9": {
+    "title": "9. Equipment and Accessories",
+    "content": "All boats come equipped with standard safety equipment and accessories, including life jackets, flares, and first aid kits. Additional equipment such as fishing gear, coolers, or water sports equipment can be rented for an additional fee. It is the renter's responsibility to return all equipment in the condition it was received. Any lost, stolen, or damaged equipment will be charged to the renter's account. Before departure, please inspect all equipment to ensure it is in working order and report any issues to our staff immediately."
+  },
+  "section10": {
+    "title": "10. Cleaning Fee",
+    "content": "We expect all boats to be returned in the same clean condition they were in at the time of rental. A basic cleaning fee is included in the rental price; however, if the boat is returned excessively dirty, an additional cleaning fee of up to 15 dollars may be applied. This includes but is not limited to stains, spills, trash, or any other messes that require extensive cleaning. We encourage renters to be mindful of the cleanliness of the boat during their time on the water to avoid these extra charges."
+  },
+  "conclusion": {
+    "text": "By booking and using our services, you agree to adhere to all the terms and conditions outlined in this document. Our goal is to provide you with a safe and enjoyable boating experience, and we appreciate your cooperation in maintaining the standards set forth. If you have any questions or concerns regarding these terms, please contact our office before your rental date. Thank you for choosing our boat rental service, and we look forward to helping you create unforgettable memories on the water.",
+    "signature": "Sincerely, The Boat Rental Company"
+  }
+}
